@@ -212,3 +212,7 @@ fieldset textarea {
   width: 622px;
   height: 51px;
 }
+
+.button:hover {
+  background: #ef5c4c;
+}
